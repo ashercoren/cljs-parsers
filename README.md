@@ -13,6 +13,6 @@ Currently supports .csv and .xml
 
 ## License
 
-Copyright © 2014 Asher Coren
+Copyright © 2015 Asher Coren
 
-Distributed under the Eclipse Public License either version 1.0.
+Distributed under the MIT License.
